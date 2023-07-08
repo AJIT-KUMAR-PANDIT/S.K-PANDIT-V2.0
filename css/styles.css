@@ -14,7 +14,7 @@
     "Segoe UI Emoji",
     "Segoe UI Symbol";
     color: #ffb338;
-    background-color: rgba(6, 6, 7, 0.108);;
+    /* background-color: rgba(6, 6, 7, 0.108);; */
 }
 body {
     margin: 0;
@@ -261,7 +261,6 @@ video {
     place-content: center;
     text-transform: uppercase;
     height: 100vh;
-    width: 100vw;
   }
   .wrapper > div {
     background-clip: text;  
