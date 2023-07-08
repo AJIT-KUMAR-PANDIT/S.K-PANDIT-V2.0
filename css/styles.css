@@ -169,12 +169,13 @@
 }
 .about{
     /* background-color: #060e13; */
+    width: 100vw;
 }
 
 /* footer code start */
 .footer{
     background-color: #1e2127;
-    width: 100%;
+    width: 100vw;
     min-height: 6rem;
 }
 
@@ -248,7 +249,7 @@
 
 video {
     object-fit: cover;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     position: absolute;
     top: 0;
